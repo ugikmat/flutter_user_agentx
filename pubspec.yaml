@@ -1,4 +1,4 @@
-name: flutter_user_agent
+name: flutter_user_agentx
 description: Retrieve device and webview user agent strings for Android and iOS devices.
 
   It also provides you with simple building blocks for generating your own user agent string.
